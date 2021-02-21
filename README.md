@@ -23,3 +23,6 @@ MGIV is an image viewer written in python and GTK
 `python3 mgiv ~/<directory>/<image.extension>`
 
 `python3 mgiv <directory>/<image.extension>`
+
+# Screenshots
+<img src="https://github.com/benarmstead/mgiv/blob/main/README_images/demo1.png">
