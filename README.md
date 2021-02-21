@@ -11,6 +11,9 @@ MGIV is an image viewer written in python and GTK
 
 `python3 mgiv.py`
 
+## Dependencies
+- GTK
+
 # Capabilities
 
 - View other images in the same directory as the image you are viewing (Left and right arrow keys).
@@ -18,11 +21,19 @@ MGIV is an image viewer written in python and GTK
 
 # Usage
 
-`python3 mgiv <image.extension>`
+`python3 mgiv.py <image.extension>`
 
-`python3 mgiv ~/<directory>/<image.extension>`
+`python3 mgiv.py ~/<directory>/<image.extension>`
 
-`python3 mgiv <directory>/<image.extension>`
+`python3 mgiv.py <directory>/<image.extension>`
+
+## Example
+
+`python3 mgiv.py parabola.png`
+
+`python3 mgiv.py ~/Pictures/parabola.png`
+
+`python3 mgiv.py Photos/parabola.png`
 
 # Screenshots
 <img src="https://github.com/benarmstead/mgiv/blob/main/README_images/demo1.png">
