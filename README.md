@@ -27,7 +27,7 @@ MGIV is an image viewer written in python and GTK
 
 `python3 mgiv.py <directory>/<image.extension>`
 
-## Example
+## Examples
 
 `python3 mgiv.py parabola.png`
 
