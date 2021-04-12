@@ -37,3 +37,7 @@ MGIV is an image viewer written in python and GTK
 
 # Screenshots
 ![Screenshot](https://raw.githubusercontent.com/benarmstead/mgiv/main/README_images/demo1.png?raw=true)
+
+
+---
+[Github](https://github.com/benarmstead/mgiv)
