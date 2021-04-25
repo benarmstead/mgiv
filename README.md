@@ -1,7 +1,7 @@
 # MGIV
 ## Minimalist Gtk Image Viewer
 
-MGIV is an image viewer written in python and GTK
+MGIV is an image viewer written in python and GTK.
 
 # Instalation
 
