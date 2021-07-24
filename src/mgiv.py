@@ -2,12 +2,12 @@
 
 #Dependancies
 #
-#pillow
-#GTK
+# Found in requirements.txt
+# GTK mus also be installed locally
 
 
 #Used for getting image resolution
-from PIL import Image #pip3 install pillow
+from PIL import Image
 
 import sys
 
