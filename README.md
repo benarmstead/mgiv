@@ -39,4 +39,5 @@ MGIV is an image viewer written in python and GTK.
 `python3 mgiv.py Photos/parabola.png`
 
 # Screenshots
-![Screenshot](https://raw.githubusercontent.com/benarmstead/mgiv/main/README_images/demo1.png?raw=true)
+
+![demo1](https://user-images.githubusercontent.com/70973680/135155036-f26ae006-dbb3-4fb0-9260-c0ea737b6e57.png)
